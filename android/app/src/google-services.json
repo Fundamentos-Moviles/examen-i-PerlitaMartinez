@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609989289561",
+    "project_id": "login-app-afddd",
+    "storage_bucket": "login-app-afddd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609989289561:android:c6c319e23881f2dd26b348",
+        "android_client_info": {
+          "package_name": "io.flutter.embedding.android.NormalTheme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu9Cd0vjrKofQVXi1Nf5g37EiFmH0P-TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
